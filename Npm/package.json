@@ -1,0 +1,15 @@
+{
+  "name": "lf-npm",
+  "version": "1.0.0",
+  "description": "one of excrsice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node-dev index.js"
+  },
+  "keywords": [
+    "Leaphy"
+  ],
+  "author": "Leaphy",
+  "license": "ISC"
+}
